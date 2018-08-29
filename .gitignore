@@ -1,4 +1,3 @@
 node_modules
-package.json
 component/outer/dialog.vue
 component/tabchildren/wechat.vue
